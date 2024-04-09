@@ -1,0 +1,15 @@
+Fonts ==>
+	worksans 700
+	
+	roboto 400
+	ROBOTO 300
+
+
+Colors ==>
+	
+	white: #fff
+	text-dark: #495057
+	light: #e1a34c
+	nav-dark: #131F33
+	lite-dark: #152136
+	lite-ish-dark: #19273e 
